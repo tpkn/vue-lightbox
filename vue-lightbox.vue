@@ -17,7 +17,7 @@
 <script>
 
    export default {
-      name: 'VueLightbox',
+      name: 'Lightbox',
 
       props: {
          show: {},
